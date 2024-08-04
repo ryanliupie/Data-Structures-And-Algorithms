@@ -10,4 +10,4 @@ Down below ↯ are my notes on data structures and algorithms in Python. It is g
 
 ## DSA Notes 
 
-- <h3> <a href="Components.md">  Introduction </a> </h3>
+- <h3> <a href="/Components.md">  Introduction </a> </h3>
